@@ -2,7 +2,7 @@
 - 👀 I’m interested in JAMStack
 - 🌱 I’m currently learning Nextjs, graphql
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 Mail me at iamsk14@live.com or hit me up on twitter @san__js
+- 📫 Mail me at sandeepfeb95@gmail.com or hit me up on twitter @san__js
 
 <!---
 san9845/san9845 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
